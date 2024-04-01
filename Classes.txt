@@ -1,0 +1,6 @@
+Bus
+Car
+Motor Cycle
+Person
+Rickshaw
+Truck
